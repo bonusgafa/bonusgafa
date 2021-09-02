@@ -23,5 +23,6 @@
 <a href = "https://twitter.com/trbonusgafa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tr.bonusgafa/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-CEr5krcmbHK9H5pU4LKBQ/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://linktr.ee/bonusgafa"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
 </p>
