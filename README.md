@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mustafa Taha KUYUK</h1>
 
-<h3 align="center">I'm Electrical and Electronics student at <a href="https://w3.beun.edu.tr/">Bülent Ecevit University.</a></h3>
+<h3 align="center">I'm Electrical and Electronics Engineer student at <a href="https://w3.beun.edu.tr/">Bülent Ecevit University.</a></h3>
 
 ## 🙋‍♂️ About Me
 
