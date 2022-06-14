@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @bonusgafa
 
-- 🌱 I’m currently learning **code PHP,Matlab.**
+- 🌱 I’m currently learning **code PHP,Matlab,Wordpress.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
